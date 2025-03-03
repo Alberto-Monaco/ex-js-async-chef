@@ -6,7 +6,6 @@
 // Restituire la data di nascita dello chef
 
 //* Note del docente
-
 // Scrivi la funzione getChefBirthday(id), che deve:
 // Essere asincrona (async).
 // Utilizzare await per chiamare le API.
