@@ -36,7 +36,7 @@ async function getChefBirthday(id) {
 	return chef.birthDate
 }
 
-// IIFE (Immediately Invoked Function Expression) asincrona per testare la funzione
+// asincrona per testare la funzione
 ;(async () => {
 	try {
 		// Chiama la funzione con ID 1 e attende il risultato
